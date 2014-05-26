@@ -1,0 +1,1028 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getMinutes"
+			],
+			[
+				"check",
+				"checkLogin"
+			],
+			[
+				"che",
+				"checkLogin"
+			],
+			[
+				"登录",
+				"登录成功"
+			],
+			[
+				"set",
+				"settings"
+			],
+			[
+				"targ",
+				"target2"
+			],
+			[
+				"margin",
+				"margin-right"
+			],
+			[
+				"page",
+				"pageY"
+			],
+			[
+				"pag",
+				"pageX"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"paper",
+				"paper"
+			],
+			[
+				"mark",
+				"marksbar"
+			],
+			[
+				"re",
+				"returnValue"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"dataT",
+				"dataTransfer"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"mo",
+				"mouseover"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"marks",
+				"markssidebar"
+			],
+			[
+				"cour",
+				"course_name"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"lis",
+				"list-style"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"data",
+				"dataTable"
+			],
+			[
+				"sco",
+				"score"
+			],
+			[
+				"inne",
+				"innerHTML"
+			],
+			[
+				"to",
+				"total_score"
+			],
+			[
+				"score",
+				"score_json"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"remove",
+				"removeClass"
+			],
+			[
+				"add",
+				"addClass"
+			],
+			[
+				"Bq",
+				"Bq_ms"
+			],
+			[
+				"Que",
+				"Quest_list"
+			],
+			[
+				"load",
+				"loadPaper"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"s",
+				"stu_ID"
+			],
+			[
+				"small",
+				"smallQuestions"
+			],
+			[
+				"ques",
+				"questionsNum"
+			],
+			[
+				"big",
+				"bigScore"
+			],
+			[
+				"sma",
+				"smallQuestions"
+			],
+			[
+				"error",
+				"errorFlag"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"save",
+				"saveMark"
+			],
+			[
+				"pa",
+				"parseFloat"
+			],
+			[
+				"pase",
+				"parseInt"
+			],
+			[
+				"pars",
+				"parseFloat"
+			],
+			[
+				"B",
+				"Bg_id"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"id",
+				"id"
+			],
+			[
+				"delete",
+				"deleteMark"
+			],
+			[
+				"Get",
+				"getUrlParam"
+			],
+			[
+				"proto",
+				"prototype"
+			],
+			[
+				"smal",
+				"smallQuestions"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"Sq",
+				"Sq_id"
+			],
+			[
+				"stu",
+				"stu_ID"
+			],
+			[
+				"foll",
+				"followed_users"
+			],
+			[
+				"Foll",
+				"followers"
+			],
+			[
+				"user",
+				"users"
+			],
+			[
+				"follw",
+				"followed_id"
+			],
+			[
+				"fo",
+				"followed"
+			],
+			[
+				"class",
+				"class_name"
+			],
+			[
+				"pra",
+				"params"
+			],
+			[
+				"car",
+				"cart_id"
+			],
+			[
+				"gr",
+				"group"
+			],
+			[
+				"new",
+				"new_product"
+			],
+			[
+				"iage",
+				"image_url"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1193,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "models/user.js",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Unix",
+				"name": "var"
+			}
+		},
+		{
+			"file": "models/db.js",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/footer.ejs",
+			"settings":
+			{
+				"buffer_size": 64,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "settings.js",
+			"settings":
+			{
+				"buffer_size": 77,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/index.js",
+			"settings":
+			{
+				"buffer_size": 3766,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/header.ejs",
+			"settings":
+			{
+				"buffer_size": 675,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/index.ejs",
+			"settings":
+			{
+				"buffer_size": 264,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "views/login.ejs",
+			"settings":
+			{
+				"buffer_size": 251,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/NatsuDawn/coding/GitHub/Blog/models/post.js",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/post.ejs",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/404.ejs",
+		"/Users/NatsuDawn/coding/GitHub/Blog/public/stylesheets/style.css",
+		"/Users/NatsuDawn/coding/GitHub/Blog/startmongodb.sh",
+		"/Users/NatsuDawn/coding/GitHub/Blog/startserver.js",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/register.ejs",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/login.ejs",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/header.ejs",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/index.ejs",
+		"/Users/NatsuDawn/coding/GitHub/Blog/routes/index.js",
+		"/Users/NatsuDawn/coding/GitHub/Blog/views/start.sh",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/js/jquery.easyui.min.js",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/js/jquery.draggable.js",
+		"/Users/NatsuDawn/coding/test_project/2014 3 29/WebRoot/corrector.jsp",
+		"/Users/NatsuDawn/coding/test_project/2014 3 29/WebRoot/js/corrector.js",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/js/test.js",
+		"/Users/NatsuDawn/Desktop/html_css3 test/index.html",
+		"/Users/NatsuDawn/Desktop/html_css3 test/pen test/scroll.html",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/js/editor.js",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/js/corrector.js",
+		"/Users/NatsuDawn/Desktop/DataTables 1.10.0-beta.2/media/js/jquery.dataTables.js",
+		"/Users/NatsuDawn/Desktop/html_css3 test/index副本.html",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/corrector.jsp",
+		"/Users/NatsuDawn/coding/test_project/olpc/WebRoot/editor.jsp",
+		"/Users/NatsuDawn/Downloads/editor/editor.js",
+		"/Users/NatsuDawn/Downloads/editor/editor.jsp",
+		"/Users/NatsuDawn/Desktop/html_css3 test/flex/untitled",
+		"/Users/NatsuDawn/Desktop/html_css3 test/flex/index4.html",
+		"/Users/NatsuDawn/coding/C/c.c",
+		"/Users/NatsuDawn/Sites/js/jsonp.js",
+		"/Users/NatsuDawn/Desktop/html_css3 test/flex/index3.html",
+		"/Users/NatsuDawn/Desktop/html_css3 test/flex/index4html.html",
+		"/etc/my.cnf",
+		"/Users/NatsuDawn/Desktop/html_css3 test/flex/index2.html",
+		"/Users/NatsuDawn/Desktop/html_css3 test/flex/index.html",
+		"/Users/NatsuDawn/Downloads/DealMark.java",
+		"/Users/NatsuDawn/Desktop/flynngao.github.io-master/assets/js/about.js",
+		"/Users/NatsuDawn/coding/test_project/zzz备份/olpc1/WebRoot/corrector.jsp",
+		"/Users/NatsuDawn/Downloads/1.c",
+		"/Users/NatsuDawn/Desktop/untitled.html",
+		"/Users/NatsuDawn/Desktop/flynngao.github.io-master/about.html",
+		"/Users/NatsuDawn/Desktop/application.js",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/controllers/users_controller.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/static_pages/help.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/_follow.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/_follow_form.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/layouts/_header.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_stats.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/config/routes.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_error_messages.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/models/user.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/assets/javascripts/application.js",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/config/environments/development.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/_unfollow.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/show_follow.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/controllers/relationships_controller.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/_user.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_user_info.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/static_pages/home.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/helpers/newevents_helper.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/db/migrate/20131224144439_create_relationships.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/models/relationship.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/assets/stylesheets/custom.css.scss",
+		"/Users/NatsuDawn/_follow_form.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/models/newevent.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/helpers/sessions_helper.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/show.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/controllers/newevents_controller.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_feed.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/new.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/edit.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/newevents/_newevent.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/Gemfile",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/lib/tasks/sample_data.rake",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/controllers/application_controller.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/_fields.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/users/index.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/controllers/sessions_controller.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/db/migrate/20131224135101_add_admin_to_users.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_feed_item.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_newevent_form.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/controllers/static_pages_controller.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/shared/_user_info.htnl.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/layouts/application.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/layouts/_footer.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/config/application.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/db/migrate/20131223163208_add_index_to_users_email.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/views/sessions/new.html.erb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/db/migrate/20131224072244_add_remember_token_to_users.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/db/migrate/20131224115904_create_newevents.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/models/micropost.rb",
+		"/Users/NatsuDawn/coding/rails/SampleBlog/app/helpers/users_helper.rb",
+		"/Users/NatsuDawn/Desktop/MTMS.sql",
+		"/Users/NatsuDawn/coding/rails/blog/blog/app/models/user.rb",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131222112055_add_index_users_email.rb",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131223123345_add_password_digest_to_users.rb",
+		"/Users/NatsuDawn/Downloads/Web/blog/Gemfile",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131217070400_create_users.rb",
+		"/Users/NatsuDawn/coding/rails/blog/blog/app/assets/stylesheets/replies.css.scss",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131217111152_create_replies.rb",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131217074517_create_new_events.rb",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131217075857_create_replies.rb",
+		"/Users/NatsuDawn/coding/rails/blog/blog/db/migrate/20131217064403_create_users.rb",
+		"/Users/NatsuDawn/coding/analyse/source.txt",
+		"/Users/NatsuDawn/coding/analyse/yuyifengxi.cpp",
+		"/Users/NatsuDawn/coding/analyse/Source.cpp",
+		"/Users/NatsuDawn/coding/depot",
+		"/Users/NatsuDawn/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/NatsuDawn/Sites/phpMyAdmin/setup/frames/config.inc.php",
+		"/Users/NatsuDawn/coding/rails/depot/Gemfile"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"sess",
+			"undi",
+			"und",
+			"unde",
+			"dataTable",
+			"X",
+			"target",
+			"revert",
+			" $(\"#",
+			"draggable",
+			"dia",
+			"list_window",
+			"list_table\nlist_table",
+			"list_table",
+			"dataTa",
+			"mark",
+			"dialog",
+			"onclose",
+			"Mark",
+			"mark",
+			"right",
+			"mark",
+			"Mark",
+			"getElementById",
+			"addEvent",
+			"hide",
+			"定稿",
+			"|",
+			"exam",
+			"active",
+			"Bg_score",
+			"int",
+			"Bg_score",
+			"check",
+			"score",
+			"socre",
+			"score",
+			"socre",
+			"sumSc",
+			"wrong",
+			"check",
+			"saveScore",
+			"questionsNum",
+			"saveS",
+			"save",
+			"innerText",
+			"inner",
+			"新考试",
+			"dati",
+			"back",
+			"dati",
+			"model",
+			"dom",
+			"doc",
+			"class1",
+			"大题",
+			"disable",
+			"outbuttonClass",
+			"disable",
+			"scorepanel",
+			"disable",
+			"createm",
+			"inbuttonClass",
+			"xiaoti",
+			"outbuttonClass1",
+			"scorepanel",
+			"outbuttonClass",
+			"label",
+			"lable",
+			"scorepanel",
+			"score",
+			"scroll",
+			"loadAll",
+			"info",
+			"labl",
+			"lable",
+			"input",
+			"createmodel",
+			"scoreCheck",
+			"datatable",
+			"da'ta'table",
+			"HintBox",
+			"saveS",
+			"save",
+			"svae",
+			"onload",
+			"list_w",
+			"dataT",
+			"loadMar",
+			"load",
+			"dataT",
+			"reload",
+			"ajax",
+			"dataT",
+			"list_t",
+			"listT",
+			"list",
+			"saveS",
+			"save",
+			"dataT",
+			"data",
+			"d'ta",
+			"loadMark",
+			"clearMark",
+			"loadMark",
+			"dealmark",
+			"loadMark",
+			"loadP",
+			"paper",
+			"loadMark",
+			"dealMark",
+			"loadPaperImage",
+			"loadMark",
+			"load",
+			"mark",
+			"saveMar",
+			"saveMr",
+			"saveMae",
+			"save",
+			"clearMar",
+			"prev",
+			"pre",
+			"saveMark",
+			"loadMark",
+			"saveMark",
+			"mark",
+			"loadMark",
+			"saveMark"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Kulipa"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 6,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"settings":
+					{
+						"buffer_size": 1193,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								496,
+								496
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 297.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "models/user.js",
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								512,
+								512
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var",
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 507.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "models/db.js",
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								263
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "views/footer.ejs",
+					"settings":
+					{
+						"buffer_size": 64,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								64,
+								64
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								169,
+								169
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "settings.js",
+					"settings":
+					{
+						"buffer_size": 77,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								18,
+								18
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "routes/index.js",
+					"settings":
+					{
+						"buffer_size": 3766,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2242,
+								2242
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "views/header.ejs",
+					"settings":
+					{
+						"buffer_size": 675,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								674
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "views/index.ejs",
+					"settings":
+					{
+						"buffer_size": 264,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								264,
+								264
+							]
+						],
+						"settings":
+						{
+							"is_xml": false,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "views/login.ejs",
+					"settings":
+					{
+						"buffer_size": 251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								93,
+								93
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 31.0
+	},
+	"replace":
+	{
+		"height": 68.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/NatsuDawn/coding/rails/depot/app/controllers/blog.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 134.0,
+	"status_bar_visible": true
+}

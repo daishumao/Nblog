@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta name='charset' content='utf-8'>
+		<title>LiBera</title>
+		<link rel='stylesheet' href='/stylesheets/style.css'>
+	</head>
+	<body>
+		<header>
+			<h1><%= title %></h1>
+		</header>
+		<nav>
+			<span><a title = '主页' href='/'>主页</a></span>
+		<% if (user) { %>
+			<span><a title = '登录' href='/post'>发布</a></span>
+			<span><a title = '注册' href='/logout'>登出</a></span>
+		<% } else { %>
+			<span><a title = '登录' href='/login'>登录</a></span>
+			<span><a title = '注册' href='/register'>注册</a></span>
+		<% } %>
+		</nav>
+		<article>
+		<% if (success) { %>
+			<div><%= success %></div>
+		<% } %>
+		<% if (error) { %>
+			<div><%= error %></div>
+		<% } %>
