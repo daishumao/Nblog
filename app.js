@@ -33,6 +33,7 @@ app.use(express.session({
 	})
 }));
 app.use(app.router);
+app.use(express.bodyParser({ keepExtensions: true, uploadDir: './public/images' }));
 app.use(express.static(path.join(__dirname, 'public')));
 
 // development only
